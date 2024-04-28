@@ -90,6 +90,7 @@ public class LibraryManagementSystem {
 
     public static void main(String[] args) {
         System.out.println("selamlar");
+        System.out.println("olacak o kadar");
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
